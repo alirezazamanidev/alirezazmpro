@@ -10,7 +10,7 @@ I am a web Developer and computer engineer from Quchan
 const AlirezaZamani = {     
     pronouns: "He" | "Him",     
     aboutMe: "I'm web developer "
-    language: ["javaScript", "typeScript",""] // Node js,         
+    language: ["javaScript", "typeScript"] // Node js,         
     myStack: {             
         backEnd: {             
           frameworks: ["Express.js"],                   

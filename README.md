@@ -13,11 +13,11 @@ const AlirezaZamani = {
     language: ["javaScript", "typeScript"] // Node js,         
     myStack: {             
         backEnd: {             
-          frameworks: ["Express.js"],                   
+          frameworks: ["Express.js","Nest js"],                   
         
           DataBases: ["MongoDB", "MySQL"],
           architectures: ["MVC"],
-          API: ["postman"],
+          API: ["postman","OPEN API"],
           
         },         
         frontEnd: {             

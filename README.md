@@ -1,7 +1,7 @@
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am a web Developer and computer engineer from Quchan 
+I am a Back End Developer and computer engineer from Quchan 
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -9,13 +9,13 @@ I am a web Developer and computer engineer from Quchan
 ```javascript
 const AlirezaZamani = {     
     pronouns: "He" | "Him",     
-    aboutMe: "I'm web developer "
+    aboutMe: "I'm Back End developer "
     language: ["javaScript", "typeScript"] // Node js,         
     myStack: {             
         backEnd: {             
-          frameworks: ["Express.js","Nest js"],                   
+          frameworks: ["Express.js","Nest js","fastify"],                   
         
-          DataBases: ["MongoDB", "MySQL"],
+          DataBases: ["MongoDB", "MySQL","redis"],
           architectures: ["MVC"],
           API: ["postman","OPEN API"],
           
@@ -25,7 +25,7 @@ const AlirezaZamani = {
         },         
                     
    },    
-   currentFocus: "Next js Web Development",     
+   currentFocus: "Node js Web Development",     
    
 };
 ```
